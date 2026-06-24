@@ -44,6 +44,15 @@ Ensure you have PyTorch with CUDA support enabled, then install the package requ
 pip install -r requirements.txt
 ```
 
+### 📥 Model Weights Configuration
+
+To run evaluation or inference, you need the pre-trained ST-GCN model weights:
+1. Create a `checkpoints` directory in the project root:
+   ```bash
+   mkdir checkpoints
+   ```
+2. Download the pre-trained model weights `best_model.pt` from the **Releases** page of this repository and place them inside the `checkpoints/` folder.
+
 ---
 
 ## Dataset Processing (`preprocess.py`)
