@@ -63,6 +63,7 @@ test_codec.mp4
 # Test and local input/output videos
 my_videos/
 testing videos/
+showcase_outputs/
 
 # Developer scratch files
 scratch/

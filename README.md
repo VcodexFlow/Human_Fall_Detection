@@ -9,7 +9,7 @@ Optimized for **NVIDIA RTX 3060 6GB** and **CUDA**, this implementation extracts
 ## Repository Structure
 
 ```
-├── requirements.txt         # Package dependencies
+├── requirements.txt         # Package dependencies     
 ├── README.md                # System documentation
 ├── model/
 │   ├── __init__.py          # Model package index
